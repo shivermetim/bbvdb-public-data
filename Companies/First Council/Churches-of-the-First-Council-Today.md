@@ -22,7 +22,7 @@
 
 **Today:**
 
- ## Christ Church Hawthorn // c.1904-06
+## Christ Church Hawthorn // c.1904-06
 
 **Address:**
 
