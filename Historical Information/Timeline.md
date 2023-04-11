@@ -60,7 +60,7 @@
 | 1992 | | First Stage Courses held. (Later Weeklong Leadership) |
 | 1993 | February | The Boys' Brigade Victoria is incorporated |
 | 1993 | | Flying fox completed at Camp McLaren. |
-| 1994 | June | Arthur Tynan, George Holmes & Alf Reside appointed Life Members of The Boys' Brigade Victoria |
+| 1994 | June | Arthur Tynan & Alf Reside appointed Life Members of The Boys' Brigade Victoria |
 | 1997 |   | The Boys' Brigade Tasmania combines with The Boys' Brigade Victoria for administrative purposes |
 | 1999 | | Leadership Development Council becomes LINK, which doesn't last much longer. |
 | 2000 | | Assault/ropes course completed at Camp McLaren. |
