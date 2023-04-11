@@ -1,0 +1,1 @@
+'Poor Narmie had to go to the Doctor … in Warburton. Even the prospect of the lovely ride in Lefty's side-car did not cheer him up. Although he brightened perceptibly when he heard that it was a Lady Doctor, and went to the trouble to do his hair, and not being satisfied with the result, to ask Monty to do it.' C. A. Nicholls, *The B.B. Camp Chronicle*, Launching Place, 1939
