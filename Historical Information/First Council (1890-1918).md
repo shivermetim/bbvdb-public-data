@@ -58,9 +58,9 @@ Battalions both Military and Naval had a significant focus on camping, as have b
 
 The _Ballarat Courier_ of 1908 recounts an episode from the Ballarat Boys' Naval Brigade. Formed in 1903 by John Adeney, the Ballarat BNB was a vigorous company of some one-hundred and sixty boys in 1908. United States President Theodore Roosevelt had sent a fleet of navy ships around the world in a show of force, which became known as the 'Great White Fleet'. The Ballarat BNB, desiring to see the fleet as it arrived at Port Melbourne, requested rail transport from the State Government. The premier declined, saying 'let them walk'. Forty-eight boys and eight leaders took him at his word, and accompanied by a bugle and drum they marched the one-hundred and twelve kilometres between Ballarat and Port Melbourne in five days. The Government provided them with rail passes for the return journey, no doubt influenced by the public support the Ballarat BNB had garnered.
 
-![](RackMultipart20230411-1-1dfbj9_html_62b584c725ddbb6a.jpg)
+![image](https://user-images.githubusercontent.com/93898982/231180057-94b30f9d-2ae0-487c-83e1-c087dfe9ce8b.png)
 
-_Figure 3: The Ballarat Boys' Naval Brigade on their march to Melbourne, 1908. (Ballarat Historical Society)._
+_Figure 1: The Ballarat Boys' Naval Brigade on their march to Melbourne, 1908. (Ballarat Historical Society)._
 
 Hoare writes that The Boys' Naval Brigade's 1907 camp was inspected by the Governor-General, Lord Northcote, and the Prime Minister, Alfred Deakin, with the Rear Admiral Sir William Creswell the 'Father of the Australian Navy' and first appointed Chief of the Commonwealth Navy. There was a sinister motive behind the inspection. Earlier that month, Deakin had returned from an 'imperial conference on military training at preparedness in the British Empire'[^30] at which was stressed the importance of compulsory military training for young men.
 
@@ -72,9 +72,9 @@ This was a time in history where the whole of Europe was poised, ready for war. 
 
 Even the churches 'spoke strongly in favour of imperial loyalty',[^40] that is, to join with Britain in war with Germany. Today we might question how a Christian ministry could become so militaristic, but the rhetoric from the Australian churches clarifies the question. In time, close cooperation with the Australian military proved 'inimical to the basic principles of a Christian movement', leading to the collapse of The Boys' Brigade movement in Australia in 1911-1912. The militarism seems to have been a direct cause of some companies' demise. In the deepest of ironies, the Coburg company of the Boys' Naval Brigade closed in 1911 when the Department of Defence 'refused' to take over the company as part of the armed forces.[^41]
 
-![](RackMultipart20230411-1-1dfbj9_html_e7b7a17c0ee87ad.jpg)
+![image](https://user-images.githubusercontent.com/93898982/231180194-8a333ed4-0ee8-4473-9a8e-5922ada17695.png)
 
-_Figure 4: The Coburg Boys' Naval Brigade c.1908. (Coburg Historical Society)._
+_Figure 2: The Coburg Boys' Naval Brigade c.1908. (Coburg Historical Society)._
 
 Ultimately, The Great War put the final nail in the coffin, and by 1918, 1st Brisbane alone was left to fly The Boys' Brigade flag in Australia.
 
