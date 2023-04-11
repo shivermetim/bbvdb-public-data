@@ -21,4 +21,5 @@ The stated Object of The Boys' Brigade, largely unchanged since 1883, is: 'The a
 ---
 
 [^1] McFarlan, D. M. *First for Boys: The Story of the Boys’ Brigade 1883-1983.* Inverness, UK: Coats Dataprint, 1982.
+
 [^2] Bolton, R. *Boys of the Brigade: A Portrait in Old Photographs & Picture Postcards, Volume One.* Warwick, UK: Warwick Printing Co., 1991.
