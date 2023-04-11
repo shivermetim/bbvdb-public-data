@@ -1,23 +1,19 @@
 ## Albury Baptist Church // 2nd Albury, 1962
-
+![Albury Baptist Church](https://user-images.githubusercontent.com/93898982/231106461-afa2c626-23e6-470a-8c82-5b38b896ca16.jpg)
 
 **Address:** Macauley St, Albury NSW 2640
 
 **Today:** Still operates as Albury Baptist.
 
- 
-
 ## Albury Church of Christ // 1st Albury
-
+![Albury Church of Christ (The River Community Church)](https://user-images.githubusercontent.com/93898982/231106470-fcc412d2-0d6b-4255-8a85-f9139ae306ae.png)
  
 **Address:** 524 David Street Albury NSW 2640
 
 **Today:** Operates as The River Community Church.
 
- 
-
 ## Altona Baptist Church // 15th Melbourne
-
+![Altona Baptist Church](https://user-images.githubusercontent.com/93898982/231106680-ec4e4fb9-9ab8-48b9-a5f4-0273511d3abc.jpg)
 
 **Address:** 14 Sargood St, Altona
 
@@ -25,10 +21,11 @@
 
 **Today:** Still in operation as Altona Baptist Church.
 
- 
-
 ## Armadale Baptist Church // 1st Melbourne, 1929
- 
+ ![Armadale Baptist Church, 1st Melb](https://user-images.githubusercontent.com/93898982/231106753-effcf8bb-6e87-4627-b7ff-03ddf07d9958.jpg)
+ 
+![Armadale Baptist Church 02, 1st Melb](https://user-images.githubusercontent.com/93898982/231106789-da647b43-4d13-4cd8-a8c4-3ed3ef3d7e8c.jpg)
+
 **Other Names:** 1st Vic Armadale
 
 **Address:** 88 Kooyong Road Armadale
@@ -37,14 +34,8 @@
 
 **Today:** Armadale Baptist Church
 
- 
-
 ## Ashburton Baptist Church // 2nd Melbourne, 1940
-
- 
-
-
-![](media/image7.jpg){width="5.0in" height="2.3854166666666665in"}
+![Ashburton Baptist Church, 2nd Melb](https://user-images.githubusercontent.com/93898982/231106856-4ca6a864-8d0a-4ed8-a29e-7bfa0b42c366.png)
 
 **Other Names:** 2nd Vic Ashburton
 
@@ -54,55 +45,38 @@
 
 **Address:** 44 Dublin Rd, Ringwood East VIC 3135
 
-**Today:** Currently operates as Light Community Baptist Church.
-
- 
+**Today:** Currently operates as Light Community Baptist Church. 
 
 ## Ballarat Baptist Church // 1st Ballarat, 1953
-
-![](media/image8.png){width="5.0in" height="3.75in"}
+![Ballarat Baptist Church](https://user-images.githubusercontent.com/93898982/231107064-032f073f-2cb4-42cb-bd90-030a7a918c88.jpg)
 
 **Address:** 320 Pleasant Street South, Newington
 
-**Today:** Seems to still be operating as \'Pleasant Street Baptist
-Church\', but it\'s unclear, as they don\'t have a website. They are,
-however, listed on the Baptist Union website as \'Pleasant Street
-Baptist Church (Ballarat West)\'.
-
- 
+**Today:** Seems to still be operating as \'Pleasant Street Baptist church\', but it\'s unclear, as they don\'t have a website. They are, however, listed on the Baptist Union website as \'Pleasant Street Baptist Church (Ballarat West)\'.
 
 ## Bendigo Baptist Church // 1st Bendigo, 1982
+
+![Bendigo Baptist Church](https://user-images.githubusercontent.com/93898982/231107995-b6dd21dc-3b2d-4030-8697-0c8b5efe52f1.jpg)
 
 **Other Names:** 11th Vic Bendigo
 
 **Address:** Edward St, Bendigo VIC 3550
 
-**Today:** The church still operates as Bendigo Baptist Church, however
-it has since relocated from the original site. It is has two campuses,
-and is still affiliated with The Girls\' Brigade.
-
- 
+**Today:** The church still operates as Bendigo Baptist Church, however it has since relocated from the original site. It is has two campuses, and is still affiliated with The Girls\' Brigade.
 
 ## Bentleigh Baptist // 10th Melbourne, 1960
 
-![](media/image9.jpg){width="5.0in" height="3.3020833333333335in"}
+![Bentleigh Baptist Church](https://user-images.githubusercontent.com/93898982/231108042-d338f77b-39c2-48ec-acb1-b926b7507bd3.png)
 
 **Address:** 10 Vickery St, Bentleigh VIC 3204
 
 **Today:** Appears to operate as a Korean Baptist Church.
 
- 
-
 ## Berwick Church of Christ // 18th Vic Berwick, 1998
-
-![](media/image10.png){width="4.0625in" height="1.6770833333333333in"}
 
 **Address:** 432-446 Centre Rd, Berwick VIC 3806
 
-**Today:** Still operates as Berwick Church of Christ. Church was
-originally Berwick Regional Church of Christ.
-
- 
+**Today:** Still operates as Berwick Church of Christ. Church was originally Berwick Regional Church of Christ.
 
 ## Blackburn Baptist Church // 6th Melbourne, 1956
 
@@ -110,29 +84,17 @@ originally Berwick Regional Church of Christ.
 
 **Address:** 2 Vision Drive, Burwood East VIC 3151
 
-**Today:** The original hall (which is either no longer standing, or has
-been converted to an early learning centre) was at the corner of
-Canterbury Road and Holland Road, Blackburn. The church moved to 19
-Holland Road, Blackburn in 1962. The church moved to 2 Vision Dr in
-Burwood East \-- it\'s current site \-- in 1995, and they changed their
-name to Crossway Baptist Church in 1996. This is a megachurch, the
-biggest Baptist Church in Australia, and still going strong. The 19
-Holland Road church is now home to a congregation of the Evangelical
-Chinese Church.
+**Today:** The original hall (which is either no longer standing, or has been converted to an early learning centre) was at the corner of Canterbury Road and Holland Road, Blackburn. The church moved to 19 Holland Road, Blackburn in 1962. The church moved to 2 Vision Dr in Burwood East \-- it\'s current site \-- in 1995, and they changed their name to Crossway Baptist Church in 1996. This is a megachurch, the biggest Baptist Church in Australia, and still going strong. The 19 Holland Road church is now home to a congregation of the Evangelical Chinese Church.
 
- 
+## Blackburn North Baptist Church
 
-![](media/image11.jpeg){width="5.0in" height="1.84375in"}
+![Blackburn North Baptist Church (NewHope Baptist) 12th Melbourne](https://user-images.githubusercontent.com/93898982/231108262-be54d61f-a659-4b83-b40e-1e97c8592907.png)
 
 **Other Names:** 12th Vic Blackburn North
 
 **Address:** 4 Dale Court, Blackburn North VIC 3130
 
-**Today:** Operates as NewHope Baptist Church, and seems to have rebuilt
-the buildings (the above photo doesn\'t look like a 1960s baptist
-church).
-
- 
+**Today:** Operates as NewHope Baptist Church, and seems to have rebuilt the buildings (the above photo doesn\'t look like a 1960s baptist church).
 
 ## Boronia Baptist Church // 33rd Melbourne, 1976
 
