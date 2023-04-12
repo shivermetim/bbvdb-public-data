@@ -263,7 +263,7 @@
 
 **Heritage List:**
 
-**Today:**
+**Today:** Still operates as St Mary's Anglican Church, North Melbourne. Many clergy members are canons of the Diocese of Melbourne and are lecturers at Trinity College Theological School.
 
 ## St Mary\'s Church of England, North School, Williamstown // c.1904-13
 
