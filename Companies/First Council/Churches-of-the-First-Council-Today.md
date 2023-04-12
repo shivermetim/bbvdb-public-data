@@ -3,7 +3,7 @@
 
 **Address:** 486-492 Albert Street East Melbourne
 
-**Heritage List:** Victorian Heritage Register ([HO003](https://vhd.heritagecouncil.vic.gov.au/places/352))
+**Heritage List:** Victorian Heritage Register [HO003](https://vhd.heritagecouncil.vic.gov.au/places/352)
 
 **Today:** No longer a church. An office building was built on the site following a fire, and the façade was restored. The façade remains, as in the picture above. This building no longer operates as a church. 
 
@@ -24,19 +24,17 @@
 
 ## Christ Church Hawthorn // c.1904-06
 
-**Address:**
+**Address:** 2 Denham Street, Hawthorn
 
-**Heritage List:**
-
-**Today:**
+**Today:** Still operational as an [Anglican Church](https://www.christchurchhawthorn.org/)
  
 ## Collins Street Baptist Church / Hyde Street Methodist Sunday School // 15th Melbourne, 1906
 
-**Address:**
+**Address:** 174 Collins Street, Melbourne
 
-**Heritage List:**
+**Heritage List:** Victorian Heritage Register [H0006](https://vhd.heritagecouncil.vic.gov.au/places/725)
 
-**Today:**
+**Today:** [Still operational](https://www.csbc.org.au/)
 
 ## East Malvern Baptist Church // c.1904-13
 
