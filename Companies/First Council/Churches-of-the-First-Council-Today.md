@@ -3,9 +3,9 @@
 
 **Address:** 486-492 Albert Street East Melbourne
 
-**Heritage List:** 1974 ([HO003](https://vhd.heritagecouncil.vic.gov.au/places/352))
+**Heritage List:** Victorian Heritage Register ([HO003](https://vhd.heritagecouncil.vic.gov.au/places/352))
 
-**Today:** 
+**Today:** No longer a church. An office building was built on the site following a fire, and the façade was restored. The façade remains, as in the picture above. This building no longer operates as a church. 
 
 ## Auburn Baptist Church // 11th Melbourne, 1911
 ![AuburnLife Church](https://user-images.githubusercontent.com/93898982/230824704-5cf2d335-8831-473c-a621-775b5578db70.png)
@@ -16,11 +16,11 @@
 
 ## Cecil Street Presbyterian // c.1904-13
 
-**Address:**
+**Address:** 87 Cecil Street, Williamstown
 
-**Heritage List:**
+**Heritage List:** National Trust [B2704](https://vhd.heritagecouncil.vic.gov.au/places/65771)
 
-**Today:**
+**Today:** Operational as [St Andrews' Presbyterian Church, Williamstown](https://www.williamstownpc.com.au/)
 
 ## Christ Church Hawthorn // c.1904-06
 
