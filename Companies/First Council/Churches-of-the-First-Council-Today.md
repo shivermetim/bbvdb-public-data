@@ -46,7 +46,7 @@
 
 **Today:**
 
- ## Elsternwick Congregational Church // 6th Melbourne, c.1904-06
+## Elsternwick Congregational Church // 6th Melbourne, c.1904-06
 
 **Address:**
 
