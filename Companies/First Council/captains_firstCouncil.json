@@ -1,75 +1,76 @@
-[
-	{
-		"company": "1st Melbourne (St. Mark's)",
-		"name_given": "John",
-		"name_family": "Ashche",
-		"date_started": "1890",
-		"date_finished": "?"
-	},
-	{
-		"company": "1st Melbourne (Scots Church)",
-		"name_given": "Rev J.",
-		"name_family": "Heyer",
-		"date_started": "1897",
-		"date_finished": "?"
-	},
-	{
-		"company": "2nd Melbourne (Methodist Mission)",
-		"name_given": "Rev G. H.",
-		"name_family": "Cole",
-		"date_started": "1900",
-		"date_finished": "?"
-	},
-	{
-		"company": "4th Melbourne (Williamstown)",
-		"name_given": "J.",
-		"name_family": "Cameron",
-		"date_started": "1902",
-		"date_finished": "?"
-	},
-	{
-		"company": "4th Melbourne / 2nd Melbourne (Richmond)",
-		"name_given": "J. A.",
-		"name_family": "Gaylard",
-		"date_started": "1902",
-		"date_finished": "?"
-	},
-	{
-		"company": "5th Melbourne (St Kilda)",
-		"name_given": "C. W.",
-		"name_family": "Le Plasnet",
-		"date_started": "1903",
-		"date_finished": "?"
-	},
-	{
-		"company": "1st Portland",
-		"name_given": "E. H.",
-		"name_family": "Alston",
-		"date_started": "1902",
-		"date_finished": "?"
-	},
-	{
-		"company": "1st Nathalia",
-		"name_given": "George Noble",
-		"name_family": "Elliott",
-		"date_started": "1903",
-		"date_finished": "?"
-	},
-	{
-		"company": "1st North Fitzroy",
-		"name_given": "William",
-		"name_family": "Chisholm",
-		"date_started": "1895",
-		"date_finished": "?"
-	},
-	{
-		"company": "\"St Augustine's",
-		"name_given": " Burwood\"",
-		"name_family": "Robert",
-		"date_started": "Cochrane",
-		"date_finished": "1902"
-	},
-	{
-		"company": ""
-	}
-]
+{
+  "Captain": {
+    "Captain": [
+      {
+        "company": "1st Melbourne (St. Mark's)",
+        "name_given": "John",
+        "name_family": "Ashche",
+        "date_started": "1890",
+        "date_finished": ""
+      },
+      {
+        "company": "1st Melbourne (Scots Church)",
+        "name_given": "Rev J.",
+        "name_family": "Heyer",
+        "date_started": "1897",
+        "date_finished": ""
+      },
+      {
+        "company": "2nd Melbourne (Methodist Mission)",
+        "name_given": "Rev G. H.",
+        "name_family": "Cole",
+        "date_started": "1900",
+        "date_finished": ""
+      },
+      {
+        "company": "4th Melbourne (Williamstown)",
+        "name_given": "J.",
+        "name_family": "Cameron",
+        "date_started": "1902",
+        "date_finished": ""
+      },
+      {
+        "company": "4th Melbourne / 2nd Melbourne (Richmond)",
+        "name_given": "J. A.",
+        "name_family": "Gaylard",
+        "date_started": "1902",
+        "date_finished": ""
+      },
+      {
+        "company": "5th Melbourne (St Kilda)",
+        "name_given": "C. W.",
+        "name_family": "Le Plasnet",
+        "date_started": "1903",
+        "date_finished": ""
+      },
+      {
+        "company": "1st Portland",
+        "name_given": "E. H.",
+        "name_family": "Alston",
+        "date_started": "1902",
+        "date_finished": ""
+      },
+      {
+        "company": "1st Nathalia",
+        "name_given": "George Noble",
+        "name_family": "Elliott",
+        "date_started": "1903",
+        "date_finished": ""
+      },
+      {
+        "company": "1st North Fitzroy",
+        "name_given": "William",
+        "name_family": "Chisholm",
+        "date_started": "1895",
+        "date_finished": ""
+      },
+      {
+        "company": "\"St Augustine's",
+        "name_given": " Burwood\"",
+        "name_family": "Robert",
+        "date_started": "Cochrane",
+        "date_finished": "1902"
+      }
+    ]
+  }
+}
