@@ -1,100 +1,104 @@
-[
-	{
-		"Name": "Melbourne Battalion",
-		"Started": "1958",
-		"Ended": "2004",
-		"Crest": "\"Yellow SW5 Tram (834) on Navy Blue. \"\"MELBOURNE BATTALION\"\"\"",
-		"Notes": ""
-	},
-	{
-		"Name": "Southern Battalion",
-		"Started": "1974",
-		"Ended": "2004",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "North Western Region",
-		"Started": "2011",
-		"Ended": "",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Southern Region",
-		"Started": "2011",
-		"Ended": "",
-		"Crest": "\"Stylised \"\"SB\"\" in silver",
-		"Notes": " set amongst the Southern Cross\""
-	},
-	{
-		"Name": "Eastern Region",
-		"Started": "2011",
-		"Ended": "",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Latrobe Valley Group Council",
-		"Started": "1973",
-		"Ended": "1973",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Gippsland Group Council",
-		"Started": "1974",
-		"Ended": "1974",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Melbourne Officers' Council",
-		"Started": "1940",
-		"Ended": "?",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Melbourne Officers' Group",
-		"Started": "?",
-		"Ended": "1957",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Victorian State Council",
-		"Started": "1961",
-		"Ended": "",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "South East District",
-		"Started": "1970",
-		"Ended": "1974",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "North East District",
-		"Started": "1970",
-		"Ended": "?",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "North West District",
-		"Started": "1970",
-		"Ended": "?",
-		"Crest": "",
-		"Notes": ""
-	},
-	{
-		"Name": "Northern District",
-		"Started": "1973",
-		"Ended": "1974",
-		"Crest": "",
-		"Notes": ""
-	}
-]
+{
+  "Battalion or Group": {
+    "Battalion or Group": [
+      {
+        "Name": "Melbourne Battalion",
+        "Started": "1958",
+        "Ended": "2004",
+        "Crest": "\"Yellow SW5 Tram (834) on Navy Blue. Text - MELBOURNE BATTALION\"",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Southern Battalion",
+        "Started": "1974",
+        "Ended": "2004",
+        "Crest": "\"Stylised SB in silver",
+        "Notes\r": " set amongst the Southern Cross\""
+      },
+      {
+        "Name": "North Western Region",
+        "Started": "2011",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Southern Region",
+        "Started": "2011",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Eastern Region",
+        "Started": "2011",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Latrobe Valley Group Council",
+        "Started": "1973",
+        "Ended": "1973",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Gippsland Group Council",
+        "Started": "1974",
+        "Ended": "1974",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Melbourne Officers' Council",
+        "Started": "1940",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Melbourne Officers' Group",
+        "Started": "",
+        "Ended": "1957",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Victorian State Council",
+        "Started": "1961",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "South East District",
+        "Started": "1970",
+        "Ended": "1974",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "North East District",
+        "Started": "1970",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "North West District",
+        "Started": "1970",
+        "Ended": "",
+        "Crest": "",
+        "Notes\r": "\r"
+      },
+      {
+        "Name": "Northern District",
+        "Started": "1973",
+        "Ended": "1974",
+        "Crest": "",
+        "Notes\r": ""
+      }
+    ]
+  }
+}
